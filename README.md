@@ -1,4 +1,4 @@
-# 📚 AI Research Assistant
+# 📚 AI Research Assistant-Web App
 
 A web app where four AI agents collaborate to research, summarize,
 fact-check, and write a structured report in response to your
